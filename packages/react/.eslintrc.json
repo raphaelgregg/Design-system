@@ -1,0 +1,3 @@
+{
+  "extends": "@gregg-ui/eslint-config"
+}

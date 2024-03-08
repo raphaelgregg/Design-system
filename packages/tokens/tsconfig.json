@@ -1,0 +1,4 @@
+{
+  "extends": "@gregg-ui/ts-config/base.json",
+  "include": ["src"]
+}
